@@ -1,0 +1,23 @@
+{
+  "name": "nodcha-chai-latte",
+  "version": "1.0.0",
+  "description": "Node, Mocha, Chai Stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSS-Cohort-9/Nodcha-Chai-Latte.git"
+  },
+  "author": "Scott Humphries <scott@sscotth.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NSS-Cohort-9/Nodcha-Chai-Latte/issues"
+  },
+  "homepage": "https://github.com/NSS-Cohort-9/Nodcha-Chai-Latte#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
