@@ -4,7 +4,8 @@
   "description": "Node, Mocha, Chai Stuff",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "istanbul cover _mocha --report lcovonly -- -R spec",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,9 @@
   "homepage": "https://github.com/NSS-Cohort-9/Nodcha-Chai-Latte#readme",
   "devDependencies": {
     "chai": "^3.2.0",
-    "mocha": "^2.2.5"
+    "coveralls": "^2.11.3",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "mocha-lcov-reporter": "0.0.2"
   }
 }
