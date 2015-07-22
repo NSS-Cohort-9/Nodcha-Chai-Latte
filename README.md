@@ -1,3 +1,2 @@
-# Nodcha-Chai-Latte [![Build Status](https://travis-ci.org/5nFCpy7Pqed9D3E99P6a/thisisatest.svg?branch=master)](https://travis-ci.org/5nFCpy7Pqed9D3E99P6a/thisisatest)
-
+# Nodcha-Chai-Latte [![Build Status](https://travis-ci.org/5nFCpy7Pqed9D3E99P6a/thisisatest.svg?branch=master)](https://travis-ci.org/5nFCpy7Pqed9D3E99P6a/thisisatest) [![Test Coverage](https://codeclimate.com/github/5nFCpy7Pqed9D3E99P6a/thisisatest/badges/coverage.svg)](https://codeclimate.com/github/5nFCpy7Pqed9D3E99P6a/thisisatest/coverage) [![Code Climate](https://codeclimate.com/github/5nFCpy7Pqed9D3E99P6a/thisisatest/badges/gpa.svg)](https://codeclimate.com/github/5nFCpy7Pqed9D3E99P6a/thisisatest)
 Node, Mocha, Chai Stuff
